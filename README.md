@@ -4,6 +4,8 @@
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats)
 
+- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rev0li)](https://github.com/Rev0li/github-readme-stats)
+
 <!---
 En dessous les stats github
 [![Rev0li's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rev0li)](https://github.com/Rev0li/github-readme-stats)
