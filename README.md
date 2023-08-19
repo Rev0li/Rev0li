@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rev0li
-- 👀 I’m interested in Blockchain development
-- 🌱 I’m currently learning html/css/javascript/reactJs/solidity
-
+- 👀 I’m interested in Web 3 development
+- 🌱 I’m looking for a job
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats)
 
 
