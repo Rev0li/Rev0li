@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning html/css/javascript/reactJs/solidity
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&layout=pie)](https://github.com/Rev0li/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats)
 
 <!---
 En dessous les stats github
