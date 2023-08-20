@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Rev0li
-- 👀 I’m interested in Web 3 development
-- 🌱 I’m looking for a job
-- 
+- 👀 I’m interested in Web 3 development, audit smart contract
+- 🌱 I’m looking for a job, junior dev
 
 
-<p align="center" >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats) </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats)
 
 
 
