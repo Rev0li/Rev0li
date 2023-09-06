@@ -3,9 +3,6 @@
 - 🌱 I’m looking for a job, junior dev
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rev0li&hide_progress=true)](https://github.com/Rev0li/github-readme-stats)
-
-
 
 
 <!---
