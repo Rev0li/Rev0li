@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @Rev0li
-- 👀 I’m interested in Web 3 development, audit smart contract
-- 🌱 I’m looking for a job, junior dev
+Hey, I’m Rev0li 👾
 
+🖥️ 42 Lyon student hacking my way through C, Linux & low-level chaos.
 
+🌐 Building random stuff: web apps, games, automation tools.
 
+🎮 From GBA tinkering to strategy games and subscription trackers.
+
+⚡ Motto: “Break it, fix it, build it better.”
 
 <!---
 En dessous les stats github
